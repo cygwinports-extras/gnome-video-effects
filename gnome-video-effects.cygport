@@ -1,7 +1,7 @@
 inherit gnome2
 
 NAME="gnome-video-effects"
-VERSION=0.4.0
+VERSION=0.4.1
 RELEASE=1
 CATEGORY="Video"
 SUMMARY="GStreamer video effect pipelines"
@@ -9,5 +9,7 @@ DESCRIPTION="GStreamer video effect pipelines"
 REQUIRES="gstreamer0.10-plugins-bad gstreamer0.10-plugins-frie0r gstreamer0.10-plugins-good"
 
 PATCH_URI="0.3.0-vpath.patch"
+
+ARCH=noarch
 
 DIFF_EXCLUDES="*.effect"
