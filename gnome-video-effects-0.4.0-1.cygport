@@ -1,6 +1,0 @@
-inherit gnome2
-
-
-PATCH_URI="0.3.0-vpath.patch"
-
-DIFF_EXCLUDES="*.effect"

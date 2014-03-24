@@ -1,4 +1,0 @@
-category: Gnome Video
-requires: gstreamer0.10-plugins-bad gstreamer0.10-plugins-frie0r gstreamer0.10-plugins-good
-sdesc: "GStreamer video effect pipelines"
-ldesc: "GStreamer video effect pipelines"
